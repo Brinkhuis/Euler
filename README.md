@@ -24,4 +24,5 @@ https://projecteuler.net
 18. 
 19. Counting Sundays
 20. Factorial Digit Sum
+21. Amicable Numbers
 
