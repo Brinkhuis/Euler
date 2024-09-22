@@ -27,4 +27,5 @@ https://projecteuler.net
 21. Amicable Numbers
 22. Names Scores
 23. Non-Abundant Sums
+24. Lexicographic Permutations
 
