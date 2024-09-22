@@ -26,4 +26,5 @@ https://projecteuler.net
 20. Factorial Digit Sum
 21. Amicable Numbers
 22. Names Scores
+23. Non-Abundant Sums
 
