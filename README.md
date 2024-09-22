@@ -21,4 +21,7 @@ https://projecteuler.net
 15. 
 16. Power Digit Sum
 17. Number Letter Counts
+18. 
+19. Counting Sundays
+20. 
 
