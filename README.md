@@ -28,4 +28,5 @@ https://projecteuler.net
 22. Names Scores
 23. Non-Abundant Sums
 24. Lexicographic Permutations
+25. 1000-digit Fibonacci Number
 
