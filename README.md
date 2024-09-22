@@ -19,4 +19,5 @@ https://projecteuler.net
 13. Large Sum
 14. Longest Collatz Sequence
 16. Power Digit Sum
+17. Number Letter Counts
 
