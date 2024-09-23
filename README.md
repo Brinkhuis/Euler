@@ -33,4 +33,5 @@ https://projecteuler.net
 27. 
 28. 
 29. Distinct Powers
+30. Digit Fifth Powers
 
