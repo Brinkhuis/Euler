@@ -29,4 +29,8 @@ https://projecteuler.net
 23. Non-Abundant Sums
 24. Lexicographic Permutations
 25. 1000-digit Fibonacci Number
+26. 
+27. 
+28. 
+29. Distinct Powers
 
