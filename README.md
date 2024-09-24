@@ -34,4 +34,5 @@ https://projecteuler.net
 28. 
 29. Distinct Powers
 30. Digit Fifth Powers
+31. Coin Sums
 
