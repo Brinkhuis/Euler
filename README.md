@@ -41,4 +41,7 @@ https://projecteuler.net
 35. Circular Primes
 36. Double-base Palindromes
 37. Truncatable Primes
+38. 
+39. 
+40. Champernowne's Constant
 
