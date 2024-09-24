@@ -35,4 +35,8 @@ https://projecteuler.net
 29. Distinct Powers
 30. Digit Fifth Powers
 31. Coin Sums
+32. 
+33. 
+34. Digit Factorials
+
 
