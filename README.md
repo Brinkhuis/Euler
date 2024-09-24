@@ -38,5 +38,6 @@ https://projecteuler.net
 32. 
 33. 
 34. Digit Factorials
-
+35. 
+36. Double-base Palindromes
 
