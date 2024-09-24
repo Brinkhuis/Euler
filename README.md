@@ -40,4 +40,5 @@ https://projecteuler.net
 34. Digit Factorials
 35. 
 36. Double-base Palindromes
+37. Truncatable Primes
 
