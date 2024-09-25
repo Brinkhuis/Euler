@@ -44,4 +44,5 @@ https://projecteuler.net
 38. 
 39. 
 40. [Champernowne's Constant](https://projecteuler.net/problem=40)
-
+41. 
+42. [Coded Triangle Numbers](https://projecteuler.net/problem=42)
