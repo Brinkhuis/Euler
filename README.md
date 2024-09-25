@@ -46,3 +46,6 @@ https://projecteuler.net
 40. [Champernowne's Constant](https://projecteuler.net/problem=40)
 41. 
 42. [Coded Triangle Numbers](https://projecteuler.net/problem=42)
+43. 
+44. 
+45. [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45)
