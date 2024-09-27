@@ -51,7 +51,7 @@ https://projecteuler.net
 |  45 |                                                                              |        |       |
 |  46 |                                                                              |        |       |
 |  47 |                                                                              |        |       |
-|  48 |                                                                              |        |       |
+|  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | x     |
 |  49 |                                                                              |        |       |
 |  50 |                                                                              |        |       |
 |  51 |                                                                              |        |       |
