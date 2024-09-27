@@ -2,13 +2,13 @@
 
 https://projecteuler.net
 
-| Nr   | Problem                                                                     | Python | Julia |
+| Nr  | Problem                                                                      | Python | Julia |
 |----:|:-----------------------------------------------------------------------------|:------:|:-----:|
 |   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | x      | x     |
 |   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | x      | x     |
 |   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | x      | x     |
 |   4 | [Largest Palindrome Product](https://projecteuler.net/problem=4)             | x      | x     |
-|   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | x      |       |
+|   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | x      | x     |
 |   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | x      |       |
 |   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | x      |       |
 |   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | x      |       |
