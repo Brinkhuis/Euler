@@ -49,3 +49,10 @@ https://projecteuler.net
 43. 
 44. [Pentagon Numbers](https://projecteuler.net/problem=44)
 45. [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45)
+
+| Nr   | Problem                                                                     | Python | Julia |
+|-----:|:----------------------------------------------------------------------------|:------:|:-----:|
+|   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | x      | x     |
+|   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | x      | x     |
+|   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | x      |       |
+|  45 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | x      |       |
