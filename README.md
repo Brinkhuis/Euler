@@ -9,7 +9,7 @@ https://projecteuler.net
 |   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | x      | x     |
 |   4 | [Largest Palindrome Product](https://projecteuler.net/problem=4)             | x      | x     |
 |   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | x      | x     |
-|   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | x      |       |
+|   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | x      | x     |
 |   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | x      |       |
 |   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | x      |       |
 |   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | x      |       |
