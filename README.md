@@ -95,7 +95,7 @@ https://projecteuler.net
 |  89 |                                                                              |        |       |
 |  90 |                                                                              |        |       |
 |  91 |                                                                              |        |       |
-|  92 |                                                                              |        |       |
+|  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | x      |       |
 |  93 |                                                                              |        |       |
 |  94 |                                                                              |        |       |
 |  95 |                                                                              |        |       |
