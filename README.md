@@ -100,7 +100,7 @@ https://projecteuler.net
 |  94 |                                                                              |        |       |
 |  95 |                                                                              |        |       |
 |  96 |                                                                              |        |       |
-|  97 |                                                                              |        |       |
+|  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | x     |
 |  98 |                                                                              |        |       |
 |  99 |                                                                              |        |       |
 | 100 |                                                                              |        |       |
