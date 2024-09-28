@@ -35,7 +35,7 @@ https://projecteuler.net
 |  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | x      |       |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | x      |       |
 |  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | x      |       |
-|  32 |                                                                              |        |       |
+|  32 | [Pandigital Products](https://projecteuler.net/problem=32)                   |        | x     |
 |  33 |                                                                              |        |       |
 |  34 | [Digit Factorials](https://projecteuler.net/problem=34)                      | x      |       |
 |  35 | [Circular Primes](https://projecteuler.net/problem=35)                       | x      |       |
