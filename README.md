@@ -52,7 +52,7 @@ https://projecteuler.net
 |  46 |                                                                              |        |       |
 |  47 |                                                                              |        |       |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | x     |
-|  49 |                                                                              |        |       |
+|  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |        | x     |
 |  50 |                                                                              |        |       |
 |  51 |                                                                              |        |       |
 |  52 |                                                                              |        |       |
