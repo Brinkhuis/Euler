@@ -55,7 +55,7 @@ https://projecteuler.net
 |  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |        | x     |
 |  50 |                                                                              |        |       |
 |  51 |                                                                              |        |       |
-|  52 |                                                                              |        |       |
+|  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | x     |
 |  53 |                                                                              |        |       |
 |  54 |                                                                              |        |       |
 |  55 |                                                                              |        |       |
