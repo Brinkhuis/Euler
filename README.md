@@ -102,6 +102,6 @@ https://projecteuler.net
 |  96 |                                                                              |        |       |
 |  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | x     |
 |  98 |                                                                              |        |       |
-|  99 |                                                                              |        |       |
+|  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | x     |
 | 100 |                                                                              |        |       |
 
