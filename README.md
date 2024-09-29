@@ -13,7 +13,7 @@ https://projecteuler.net
 |   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | x      | x     |
 |   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | x      | x     |
 |   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | x      | x     |
-|  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | x      |       |
+|  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | x      | x     |
 |  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | x      |       |
 |  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | x      |       |
 |  13 | [Large Sum](https://projecteuler.net/problem=13)                             | x      |       |
