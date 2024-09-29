@@ -11,7 +11,7 @@ https://projecteuler.net
 |   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | x      | x     |
 |   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | x      | x     |
 |   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | x      | x     |
-|   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | x      | x     |
+|   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | x      |       |
 |   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | x      |       |
 |  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | x      |       |
 |  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | x      |       |
