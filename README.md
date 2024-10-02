@@ -31,7 +31,7 @@ https://projecteuler.net
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | x      |       |
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | x     |
 |  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      |        | x     |
-|  28 |                                                                              |        |       |
+|  28 | [Number Spiral Diagonals](https://projecteuler.net/problem=28)               |        | x     |
 |  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | x      |       |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | x      |       |
 |  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | x      |       |
