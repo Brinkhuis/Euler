@@ -30,7 +30,7 @@ https://projecteuler.net
 |  24 | [Lexicographic Permutations](https://projecteuler.net/problem=24)            | x      |       |
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | x      |       |
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | x     |
-|  27 |                                                                              |        |       |
+|  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      |        | x     |
 |  28 |                                                                              |        |       |
 |  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | x      |       |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | x      |       |
