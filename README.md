@@ -29,7 +29,7 @@ https://projecteuler.net
 |  23 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                     | x      |       |
 |  24 | [Lexicographic Permutations](https://projecteuler.net/problem=24)            | x      |       |
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | x      |       |
-|  26 |                                                                              |        |       |
+|  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | x     |
 |  27 |                                                                              |        |       |
 |  28 |                                                                              |        |       |
 |  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | x      |       |
