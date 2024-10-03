@@ -41,7 +41,7 @@ https://projecteuler.net
 |  35 | [Circular Primes](https://projecteuler.net/problem=35)                       | x      |       |
 |  36 | [Double-base Palindromes](https://projecteuler.net/problem=36)               | x      |       |
 |  37 | [Truncatable Primes](https://projecteuler.net/problem=37)                    | x      |       |
-|  38 |                                                                              |        |       |
+|  38 | [Pandigital Multiples](https://projecteuler.net/problem=38)                  |        | x     |
 |  39 |                                                                              |        |       |
 |  40 | [Champernowne's Constant](https://projecteuler.net/problem=40)               | x      |       |
 |  41 |                                                                              |        |       |
