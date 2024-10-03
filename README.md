@@ -104,4 +104,3 @@ https://projecteuler.net
 |  98 |                                                                              |        |       |
 |  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | x     |
 | 100 |                                                                              |        |       |
-
