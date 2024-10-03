@@ -44,7 +44,7 @@ https://projecteuler.net
 |  38 | [Pandigital Multiples](https://projecteuler.net/problem=38)                  |        | x     |
 |  39 | [Integer Right Triangles](https://projecteuler.net/problem=39)               |        | x     |
 |  40 | [Champernowne's Constant](https://projecteuler.net/problem=40)               | x      |       |
-|  41 |                                                                              |        |       |
+|  41 | [Pandigital Prime](https://projecteuler.net/problem=41)                      |        | x     |
 |  42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42)                | x      |       |
 |  43 |                                                                              |        |       |
 |  44 | [Pentagon Numbers](https://projecteuler.net/problem=44)                      | x      |       |
