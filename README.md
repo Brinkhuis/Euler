@@ -46,10 +46,10 @@ https://projecteuler.net
 |  40 | [Champernowne's Constant](https://projecteuler.net/problem=40)               | x      |       |
 |  41 | [Pandigital Prime](https://projecteuler.net/problem=41)                      |        | x     |
 |  42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42)                | x      |       |
-|  43 |                                                                              |        |       |
+|  43 | [Sub-string Divisibility](https://projecteuler.net/problem=43)               |        | x     |
 |  44 | [Pentagon Numbers](https://projecteuler.net/problem=44)                      | x      |       |
 |  45 |                                                                              |        |       |
-|  46 |                                                                              |        |       |
+|  46 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46)           |        | x     |
 |  47 |                                                                              |        |       |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | x     |
 |  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |        | x     |
