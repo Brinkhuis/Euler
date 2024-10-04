@@ -48,7 +48,7 @@ https://projecteuler.net
 |  42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42)                | x      |       |
 |  43 | [Sub-string Divisibility](https://projecteuler.net/problem=43)               |        | x     |
 |  44 | [Pentagon Numbers](https://projecteuler.net/problem=44)                      | x      |       |
-|  45 |                                                                              |        |       |
+|  45 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | x      |       |
 |  46 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46)           |        | x     |
 |  47 |                                                                              |        |       |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | x     |
