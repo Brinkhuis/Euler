@@ -53,7 +53,7 @@ https://projecteuler.net
 |  47 |                                                                              |        |       |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | x     |
 |  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |        | x     |
-|  50 |                                                                              |        |       |
+|  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |        | x     |
 |  51 |                                                                              |        |       |
 |  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | x     |
 |  53 |                                                                              |        |       |
