@@ -66,7 +66,7 @@ https://projecteuler.net
 |  60 |                                                                              |        |       |
 |  61 |                                                                              |        |       |
 |  62 |                                                                              |        |       |
-|  63 |                                                                              |        |       |
+|  63 | [Powerful Digit Counts](https://projecteuler.net/problem=63)                 |        | x     |
 |  64 |                                                                              |        |       |
 |  65 |                                                                              |        |       |
 |  66 |                                                                              |        |       |
