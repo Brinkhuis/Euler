@@ -50,7 +50,7 @@ https://projecteuler.net
 |  44 | [Pentagon Numbers](https://projecteuler.net/problem=44)                      | x      |       |
 |  45 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | x      |       |
 |  46 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46)           |        | x     |
-|  47 |                                                                              |        |       |
+|  47 | [Distinct Primes Factors](https://projecteuler.net/problem=47)               |        | x     |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | x     |
 |  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |        | x     |
 |  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |        | x     |
