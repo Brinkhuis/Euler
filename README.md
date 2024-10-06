@@ -56,7 +56,7 @@ https://projecteuler.net
 |  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |        | x     |
 |  51 | [Prime Digit Replacements](https://projecteuler.net/problem=51)              |        | x     |
 |  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | x     |
-|  53 |                                                                              |        |       |
+|  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |        | x     |
 |  54 |                                                                              |        |       |
 |  55 |                                                                              |        |       |
 |  56 |                                                                              |        |       |
