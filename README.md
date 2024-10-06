@@ -70,7 +70,7 @@ https://projecteuler.net
 |  64 |                                                                              |        |       |
 |  65 |                                                                              |        |       |
 |  66 |                                                                              |        |       |
-|  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | x      |       |
+|  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | x      | x     |
 |  68 |                                                                              |        |       |
 |  69 |                                                                              |        |       |
 |  70 |                                                                              |        |       |
