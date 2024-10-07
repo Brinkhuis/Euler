@@ -58,7 +58,7 @@ https://projecteuler.net
 |  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | x     |
 |  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |        | x     |
 |  54 |                                                                              |        |       |
-|  55 |                                                                              |        |       |
+|  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |        | x     |
 |  56 |                                                                              |        |       |
 |  57 |                                                                              |        |       |
 |  58 |                                                                              |        |       |
