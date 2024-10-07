@@ -59,7 +59,7 @@ https://projecteuler.net
 |  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |        | x     |
 |  54 |                                                                              |        |       |
 |  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |        | x     |
-|  56 |                                                                              |        |       |
+|  56 | [Powerful Digit Sum](https://projecteuler.net/problem=56)                    |        | x     |
 |  57 |                                                                              |        |       |
 |  58 |                                                                              |        |       |
 |  59 |                                                                              |        |       |
