@@ -34,7 +34,7 @@ https://projecteuler.net
 |  28 | [Number Spiral Diagonals](https://projecteuler.net/problem=28)               |        | x     |
 |  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | x      | x     |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | x      | x     |
-|  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | x      |       |
+|  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | x      | x     |
 |  32 | [Pandigital Products](https://projecteuler.net/problem=32)                   |        | x     |
 |  33 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)            |        | x     |
 |  34 | [Digit Factorials](https://projecteuler.net/problem=34)                      | x      | x     |
