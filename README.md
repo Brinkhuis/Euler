@@ -43,7 +43,7 @@ https://projecteuler.net
 |  37 | [Truncatable Primes](https://projecteuler.net/problem=37)                    | x      | x     |
 |  38 | [Pandigital Multiples](https://projecteuler.net/problem=38)                  |        | x     |
 |  39 | [Integer Right Triangles](https://projecteuler.net/problem=39)               |        | x     |
-|  40 | [Champernowne's Constant](https://projecteuler.net/problem=40)               | x      |       |
+|  40 | [Champernowne's Constant](https://projecteuler.net/problem=40)               | x      | x     |
 |  41 | [Pandigital Prime](https://projecteuler.net/problem=41)                      |        | x     |
 |  42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42)                | x      |       |
 |  43 | [Sub-string Divisibility](https://projecteuler.net/problem=43)               |        | x     |
