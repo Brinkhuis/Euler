@@ -39,7 +39,7 @@ https://projecteuler.net
 |  33 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)            |        | x     |
 |  34 | [Digit Factorials](https://projecteuler.net/problem=34)                      | x      | x     |
 |  35 | [Circular Primes](https://projecteuler.net/problem=35)                       | x      | x     |
-|  36 | [Double-base Palindromes](https://projecteuler.net/problem=36)               | x      |       |
+|  36 | [Double-base Palindromes](https://projecteuler.net/problem=36)               | x      | x     |
 |  37 | [Truncatable Primes](https://projecteuler.net/problem=37)                    | x      |       |
 |  38 | [Pandigital Multiples](https://projecteuler.net/problem=38)                  |        | x     |
 |  39 | [Integer Right Triangles](https://projecteuler.net/problem=39)               |        | x     |
