@@ -4,8 +4,8 @@ https://projecteuler.net
 
 | Nr  | Problem                                                                      | Python       | Julia       |
 |----:|:-----------------------------------------------------------------------------|:------------:|:-----------:|
-|   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | 12.7 μs      | 629.900 ns  |
-|   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | x            | 326.786 ns  |
+|   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | 12.7 μs      | **629.900 ns**  |
+|   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | 6.03 μs      | **326.786 ns**  |
 |   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | x            | 1.637 μs    |
 |   4 | [Largest Palindrome Product](https://projecteuler.net/problem=4)             | x            | 18.572 ms   |
 |   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | x            | 318.367 n   |
