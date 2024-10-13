@@ -56,55 +56,55 @@ https://projecteuler.net
 |  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |              | 14.683 ms   |
 
 
-| Nr  | Problem                                                                      | Python | Juli  |
-|----:|:-----------------------------------------------------------------------------|:------:|:-----:|
-|  51 | [Prime Digit Replacements](https://projecteuler.net/problem=51)              |        | x     |
-|  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | x     |
-|  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |        | x     |
-|  54 |                                                                              |        |       |
-|  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |        | x     |
-|  56 | [Powerful Digit Sum](https://projecteuler.net/problem=56)                    |        | x     |
-|  57 |                                                                              |        |       |
-|  58 |                                                                              |        |       |
-|  59 |                                                                              |        |       |
-|  60 |                                                                              |        |       |
-|  61 |                                                                              |        |       |
-|  62 |                                                                              |        |       |
-|  63 | [Powerful Digit Counts](https://projecteuler.net/problem=63)                 |        | x     |
-|  64 |                                                                              |        |       |
-|  65 |                                                                              |        |       |
-|  66 |                                                                              |        |       |
-|  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | x      | x     |
-|  68 |                                                                              |        |       |
-|  69 |                                                                              |        |       |
-|  70 |                                                                              |        |       |
-|  71 |                                                                              |        |       |
-|  72 |                                                                              |        |       |
-|  73 |                                                                              |        |       |
-|  74 |                                                                              |        |       |
-|  75 |                                                                              |        |       |
-|  76 |                                                                              |        |       |
-|  77 |                                                                              |        |       |
-|  78 |                                                                              |        |       |
-|  79 |                                                                              |        |       |
-|  80 |                                                                              |        |       |
-|  81 |                                                                              |        |       |
-|  82 |                                                                              |        |       |
-|  83 |                                                                              |        |       |
-|  84 |                                                                              |        |       |
-|  85 |                                                                              |        |       |
-|  86 |                                                                              |        |       |
-|  87 |                                                                              |        |       |
-|  88 |                                                                              |        |       |
-|  89 |                                                                              |        |       |
-|  90 |                                                                              |        |       |
-|  91 |                                                                              |        |       |
-|  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | x      |       |
-|  93 |                                                                              |        |       |
-|  94 |                                                                              |        |       |
-|  95 |                                                                              |        |       |
-|  96 |                                                                              |        |       |
-|  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | x     |
-|  98 |                                                                              |        |       |
-|  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | x     |
-| 100 |                                                                              |        |       |
+| Nr  | Problem                                                                      | Python       | Juli        |
+|----:|:-----------------------------------------------------------------------------|:------------:|:-----------:|
+|  51 | [Prime Digit Replacements](https://projecteuler.net/problem=51)              |              | 288.922 ms  |
+|  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |              | 66.556 ms   |
+|  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |              | 3.236 ms    |
+|  54 |                                                                              |              |             |
+|  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |              | 41.642 ms   |
+|  56 | [Powerful Digit Sum](https://projecteuler.net/problem=56)                    |              | 5.564 ms    |
+|  57 |                                                                              |              |             |
+|  58 |                                                                              |              |             |
+|  59 |                                                                              |              |             |
+|  60 |                                                                              |              |             |
+|  61 |                                                                              |              |             |
+|  62 |                                                                              |              |             |
+|  63 | [Powerful Digit Counts](https://projecteuler.net/problem=63)                 |              | 9.416 μs    |
+|  64 |                                                                              |              |             |
+|  65 |                                                                              |              |             |
+|  66 |                                                                              |              |             |
+|  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | x            | 343.791 μs  |
+|  68 |                                                                              |              |             |
+|  69 |                                                                              |              |             |
+|  70 |                                                                              |              |             |
+|  71 |                                                                              |              |             |
+|  72 |                                                                              |              |             |
+|  73 |                                                                              |              |             |
+|  74 |                                                                              |              |             |
+|  75 |                                                                              |              |             |
+|  76 |                                                                              |              |             |
+|  77 |                                                                              |              |             |
+|  78 |                                                                              |              |             |
+|  79 |                                                                              |              |             |
+|  80 |                                                                              |              |             |
+|  81 |                                                                              |              |             |
+|  82 |                                                                              |              |             |
+|  83 |                                                                              |              |             |
+|  84 |                                                                              |              |             |
+|  85 |                                                                              |              |             |
+|  86 |                                                                              |              |             |
+|  87 |                                                                              |              |             |
+|  88 |                                                                              |              |             |
+|  89 |                                                                              |              |             |
+|  90 |                                                                              |              |             |
+|  91 |                                                                              |              |             |
+|  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | x            |             |
+|  93 |                                                                              |              |             |
+|  94 |                                                                              |              |             |
+|  95 |                                                                              |              |             |
+|  96 |                                                                              |              |             |
+|  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |              | 145.959 ms  |
+|  98 |                                                                              |              |             |
+|  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |              | 53.125 μs   |
+| 100 |                                                                              |              |             |
