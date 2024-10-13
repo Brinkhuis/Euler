@@ -54,7 +54,6 @@ https://projecteuler.net
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |              | 879.959 μs  |
 |  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |              | 138.458 μs  |
 |  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |              | 14.683 ms   |
-|----:|:-----------------------------------------------------------------------------|:------------:|:-----------:|
 |  51 | [Prime Digit Replacements](https://projecteuler.net/problem=51)              |              | 288.922 ms  |
 |  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |              | 66.556 ms   |
 |  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |              | 3.236 ms    |
