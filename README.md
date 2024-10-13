@@ -26,7 +26,7 @@ https://projecteuler.net
 |  20 | [Factorial Digit Sum](https://projecteuler.net/problem=20)                   | x      | x     |
 |  21 | [Amicable Numbers](https://projecteuler.net/problem=21)                      | x      | x     |
 |  22 | [Names Scores](https://projecteuler.net/problem=22)                          | x      | x     |
-|  23 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                     | x      |       |
+|  23 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                     | x      | x     |
 |  24 | [Lexicographic Permutations](https://projecteuler.net/problem=24)            | x      | x     |
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | x      | x     |
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | x     |
