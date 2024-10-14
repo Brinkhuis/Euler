@@ -2,18 +2,31 @@
 
 https://projecteuler.net  
 
+> Solutions are coded in both Python and Julia.  
+> Best performances are marked **bold**.  
+
+Suggestions to improve approach, code and performance are highly appreciated.
+
+
+|  Item         |  Version              |
+|:-------------|:-----------------------|
+| MacBook Air  | 2020 M1 8Gb 256Gb SSD  |
+| Python       | 3.11.9                 |
+| Julia        | 1.10.5                 |  
+
+
 | Nr  | Problem                                                                      | Python       | Julia       |
 |----:|:-----------------------------------------------------------------------------|:------------:|:-----------:|
-|   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | 12.7 μs      | **629.900 ns**  |
-|   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | 6.03 μs      | **326.786 ns**  |
-|   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | x            | 1.637 μs    |
-|   4 | [Largest Palindrome Product](https://projecteuler.net/problem=4)             | x            | 18.572 ms   |
-|   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | x            | 318.367 n   |
-|   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | x            | 1.875 ns    |
-|   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | x            | 2.737 ms    |
-|   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | x            | 25.750 μs   |
-|   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | x            | 86.750 μs   |
-|  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | x            | 2.603 ms    |
+|   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | 12.8 μs      | **629.900 ns**  |
+|   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | 5.97 μs      | **326.786 ns**  |
+|   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | 1.4 ms       | **1.637 μs**    |
+|   4 | [Largest Palindrome Product](https://projecteuler.net/problem=4)             | 122 ms       | **18.572 ms**   |
+|   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | 6.82 s       | **318.367 n**   |
+|   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | 3.82 μs      | **1.875 ns**    |
+|   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | 23.3 ms      | **2.737 ms**    |
+|   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | 908 μs       | **25.750 μs**   |
+|   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | 8.56 s       | **86.750 μs**   |
+|  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | 536 ms       | **2.603 ms**    |
 |  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | x            | 66.500 μs   |
 |  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | x            | 48.523 ms   |
 |  13 | [Large Sum](https://projecteuler.net/problem=13)                             | x            | 1.008 μs    |
