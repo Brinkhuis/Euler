@@ -8,15 +8,15 @@ https://projecteuler.net
 Suggestions to improve approach, code and performance are highly appreciated.
 
 
-|  Item         |  Version              |
+|  Item        |  Version              |
 |:-------------|:-----------------------|
 | MacBook Air  | 2020 M1 8Gb 256Gb SSD  |
 | Python       | 3.11.9                 |
 | Julia        | 1.10.5                 |  
 
 
-| Nr  | Problem                                                                      | Python       | Julia       |
-|----:|:-----------------------------------------------------------------------------|:------------:|:-----------:|
+| Nr  | Problem                                                                      | Python       | Julia           |
+|----:|:-----------------------------------------------------------------------------|:------------:|:---------------:|
 |   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | 12.8 μs      | **629.900 ns**  |
 |   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | 5.97 μs      | **326.786 ns**  |
 |   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | 1.4 ms       | **1.637 μs**    |
@@ -27,16 +27,16 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | 908 μs       | **25.750 μs**   |
 |   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | 8.56 s       | **86.750 μs**   |
 |  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | 536 ms       | **2.603 ms**    |
-|  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | x            | 66.500 μs   |
-|  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | x            | 48.523 ms   |
-|  13 | [Large Sum](https://projecteuler.net/problem=13)                             | x            | 1.008 μs    |
-|  14 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)              | x            | 748.158 ms  |
-|  15 | [Lattice Paths](https://projecteuler.net/problem=15)                         |              | 0.875 ns    |
-|  16 | [Power Digit Sum](https://projecteuler.net/problem=16)                       | x            | 1.262 μs    |
-|  17 | [Number Letter Counts](https://projecteuler.net/problem=17)                  | x            | 440.709 μs  |
-|  18 | [Maximum Path Sum I](https://projecteuler.net/problem=18)                    | x            | 21.666 μs   |
-|  19 | [Counting Sundays](https://projecteuler.net/problem=19)                      | x            | 640.958 μs  |
-|  20 | [Factorial Digit Sum](https://projecteuler.net/problem=20)                   | x            | 923.913 ns  |
+|  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | 335 μs       | **66.500 μs**   |
+|  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | 2h 11min     | **48.523 ms**   |
+|  13 | [Large Sum](https://projecteuler.net/problem=13)                             | 1.85 μs      | **1.008 μs**    |
+|  14 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)              | 11.8 s       | **748.158 ms**  |
+|  15 | [Lattice Paths](https://projecteuler.net/problem=15)                         |              | 0.875 ns        |
+|  16 | [Power Digit Sum](https://projecteuler.net/problem=16)                       | 20.5 μs      | **1.262 μs**    |
+|  17 | [Number Letter Counts](https://projecteuler.net/problem=17)                  | 1.62 ms      | **440.709 μs**  |
+|  18 | [Maximum Path Sum I](https://projecteuler.net/problem=18)                    | 45.3 μs      | **21.666 μs**   |
+|  19 | [Counting Sundays](https://projecteuler.net/problem=19)                      | 99.9 μs      | **640.958 μs**  |
+|  20 | [Factorial Digit Sum](https://projecteuler.net/problem=20)                   | 14.1 μs      | **923.913 ns**  |
 |  21 | [Amicable Numbers](https://projecteuler.net/problem=21)                      | x            | 11.439 ms   |
 |  22 | [Names Scores](https://projecteuler.net/problem=22)                          | x            | 735.084 μs  |
 |  23 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                     | x            | 4.243 s     |
