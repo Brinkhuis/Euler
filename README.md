@@ -11,7 +11,7 @@ https://projecteuler.net
 | Python   | 3.11.9   |
 | Julia    | 1.11.0   |  
 
-Benchmark comparisons are available is the notebook `benchmarks.ipynb`.  
+Benchmark comparisons are available in notebook `benchmarks.ipynb`.  
 Suggestions to improve approach, code and performance are highly appreciated.
 
 
