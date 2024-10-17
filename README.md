@@ -2,17 +2,20 @@
 
 https://projecteuler.net  
 
-> Solutions are coded in both Python and Julia.  
+### Intro
 
+> Solutions are mostly coded in both Python and Julia (on a MacBook Air 2020 M1 8Gb 256Gb SSD).  
+
+| Language |  Version |
+|:---------|:---------|
+| Python   | 3.11.9   |
+| Julia    | 1.11.0   |  
+
+Benchmark comparisons are available is the notebook `benchmarks.ipynb`.  
 Suggestions to improve approach, code and performance are highly appreciated.
 
 
-|  Item        |  Version              |
-|:-------------|:-----------------------|
-| MacBook Air  | 2020 M1 8Gb 256Gb SSD  |
-| Python       | 3.11.9                 |
-| Julia        | 1.11.0                 |  
-
+### Solved problems
 
 | Nr  | Problem                                                                      | Python | Julia |
 |----:|:-----------------------------------------------------------------------------|:------:|:-----:|
