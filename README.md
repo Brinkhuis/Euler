@@ -9,7 +9,7 @@ https://projecteuler.net
 | Language |  Version |
 |:---------|:---------|
 | Python   | 3.11.9   |
-| Julia    | 1.11.0   |  
+| Julia    | 1.11.1   |  
 
 Benchmark comparisons are available in notebook `benchmarks.ipynb`.  
 Suggestions to improve approach, code and performance are highly appreciated.
