@@ -10,7 +10,7 @@ My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 - Find a solution in base [Python](https://www.python.org/) and [Julia](https://julialang.org/) before using packages
 - Save benchmarks for comparison
 - Benchmarks for package based solutions are not saved to keep comparison fair
-- A mug of coffee before solving problems!  c[_]
+- A mug of coffee before solving problems!  ☕️
 
 Used hardware : MacBook Air 13.3" (2020) M1, 8GB RAM, 256GB SSD  
 
