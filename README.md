@@ -2,16 +2,17 @@
 
 https://projecteuler.net  
 
-### Intro
+My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 
-> Solutions are mostly coded in both Python and Julia (on a MacBook Air 2020 M1 8Gb 256Gb SSD).  
+### Self imposed rules
 
-| Language |  Version |
-|:---------|:---------|
-| Python   | 3.11.9   |
-| Julia    | 1.11.1   |  
+- Solve the first fifty problem in both Python and Julia
+- Find a solution in base Python and Julia before using packages
+- Save benchmarks for comparison
 
-Benchmark comparisons are available in notebook `benchmarks.ipynb`.  
+Use hardware : MacBook Air 13.3" (2020) M1, 8GB RAM, 256GB SSD  
+
+Benchmark comparisons are available in notebook [`benchmarks.ipynb`](https://github.com/Brinkhuis/Euler/blob/main/benchmarks.ipynb).  
 Suggestions to improve approach, code and performance are highly appreciated.
 
 
