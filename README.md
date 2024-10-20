@@ -4,7 +4,7 @@ https://projecteuler.net
 
 My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 
-### Self imposed rules
+### Self imposed rules (✓)
 
 - Solve the first fifty problem in both [Python](https://www.python.org/) and [Julia](https://julialang.org/)
 - Find a solution in base [Python](https://www.python.org/) and [Julia](https://julialang.org/) before using packages
@@ -22,17 +22,17 @@ Suggestions to improve approach, code and performance are highly appreciated.
 
 | Nr  | Problem                                                                      | Python | Julia |
 |----:|:-----------------------------------------------------------------------------|:------:|:-----:|
-|   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | x      | x     |
-|   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | x      | x     |
-|   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | x      | x     |
-|   4 | [Largest Palindrome Product](https://projecteuler.net/problem=4)             | x      | x     |
-|   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | x      | x     |
-|   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | x      | x     |
-|   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | x      | x     |
-|   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | x      | x     |
-|   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | x      | x     |
-|  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | x      | x     |
-|  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | x      | x     |
+|   1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1)                    | ✓      | ✓     |
+|   2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                 | ✓      | ✓     |
+|   3 | [Largest Prime Factor](https://projecteuler.net/problem=3)                   | ✓      | ✓     |
+|   4 | [Largest Palindrome Product](https://projecteuler.net/problem=4)             | ✓      | ✓     |
+|   5 | [Smallest Multiple](https://projecteuler.net/problem=5)                      | ✓      | ✓     |
+|   6 | [Sum Square Difference](https://projecteuler.net/problem=6)                  | ✓      | ✓     |
+|   7 | [10001st Prime](https://projecteuler.net/problem=7)                          | ✓      | ✓     |
+|   8 | [Largest Product in a Series](https://projecteuler.net/problem=8)            | ✓      | ✓     |
+|   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | ✓      | ✓     |
+|  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | ✓      | ✓     |
+|  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | •      | x     |
 |  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | x      | x     |
 |  13 | [Large Sum](https://projecteuler.net/problem=13)                             | x      | x     |
 |  14 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)              | x      | x     |
@@ -50,7 +50,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | x     |
 |  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      |        | x     |
 |  28 | [Number Spiral Diagonals](https://projecteuler.net/problem=28)               |        | x     |
-|  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | x      | x     |
+|  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | x      | ✓     |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | x      | x     |
 |  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | x      | x     |
 |  32 | [Pandigital Products](https://projecteuler.net/problem=32)                   |        | x     |
