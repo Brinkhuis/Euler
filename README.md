@@ -12,7 +12,7 @@ My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 
 Used hardware : MacBook Air 13.3" (2020) M1, 8GB RAM, 256GB SSD  
 
-Benchmark comparisons are available in notebook [`benchmarks.ipynb`](https://github.com/Brinkhuis/Euler/blob/main/benchmarks.ipynb).  
+Benchmark comparisons are available in notebook [`benchmarks.ipynb`](https://github.com/Brinkhuis/Euler/blob/main/benchmarks.ipynb)  
 Suggestions to improve approach, code and performance are highly appreciated.
 
 
