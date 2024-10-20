@@ -50,7 +50,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | •     |
 |  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      |        | •     |
 |  28 | [Number Spiral Diagonals](https://projecteuler.net/problem=28)               |        | •     |
-|  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | •      | ✓     |
+|  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | ✓      | ✓     |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | •      | •     |
 |  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | •      | •     |
 |  32 | [Pandigital Products](https://projecteuler.net/problem=32)                   |        | •     |
