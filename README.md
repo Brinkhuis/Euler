@@ -10,7 +10,7 @@ My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 - Find a solution in base Python and Julia before using packages
 - Save benchmarks for comparison
 
-Use hardware : MacBook Air 13.3" (2020) M1, 8GB RAM, 256GB SSD  
+Used hardware : MacBook Air 13.3" (2020) M1, 8GB RAM, 256GB SSD  
 
 Benchmark comparisons are available in notebook [`benchmarks.ipynb`](https://github.com/Brinkhuis/Euler/blob/main/benchmarks.ipynb).  
 Suggestions to improve approach, code and performance are highly appreciated.
