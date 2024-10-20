@@ -6,7 +6,7 @@ My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 
 ### Self imposed rules
 
-- Solve the first fifty problem in both Python and Julia
+- Solve the first fifty problem in both [Python](https://www.python.org/) and [Julia](https://julialang.org/)
 - Find a solution in base Python and Julia before using packages
 - Save benchmarks for comparison
 
