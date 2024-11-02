@@ -11,8 +11,8 @@ My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 - Save benchmarks for comparison
 - Benchmarks for package based solutions are not saved to keep comparison _fair_
 - Try to find _subsecond_ solutions  🚀
-- Bonus: a one-liner solution
-- Coffee before solving problems!  ☕️
+- Bonus: one-liner solutions
+- Coffee before coding!  ☕️
 
 Used hardware : MacBook Air 13.3" (2020) M1, 8GB RAM, 256GB SSD  
 
@@ -35,7 +35,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |   9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)            | ✓      | ✓     |
 |  10 | [Summation of Primes](https://projecteuler.net/problem=10)                   | ✓      | ✓     |
 |  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | ✓      | ✓     |
-|  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | •      | •     |
+|  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | ✓      | ✓     |
 |  13 | [Large Sum](https://projecteuler.net/problem=13)                             | ✓      | ✓     |
 |  14 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)              | •      | •     |
 |  15 | [Lattice Paths](https://projecteuler.net/problem=15)                         | •      | •     |
