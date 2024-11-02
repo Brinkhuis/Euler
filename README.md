@@ -42,7 +42,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  16 | [Power Digit Sum](https://projecteuler.net/problem=16)                       | ✓      | ✓     |
 |  17 | [Number Letter Counts](https://projecteuler.net/problem=17)                  | ✓      | ✓     |
 |  18 | [Maximum Path Sum I](https://projecteuler.net/problem=18)                    | ✓      | ✓     |
-|  19 | [Counting Sundays](https://projecteuler.net/problem=19)                      | •      | •     |
+|  19 | [Counting Sundays](https://projecteuler.net/problem=19)                      | ✓      | ✓     |
 |  20 | [Factorial Digit Sum](https://projecteuler.net/problem=20)                   | ✓      | ✓     |
 |  21 | [Amicable Numbers](https://projecteuler.net/problem=21)                      | •      | •     |
 |  22 | [Names Scores](https://projecteuler.net/problem=22)                          | •      | ✓     |
