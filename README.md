@@ -37,7 +37,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  11 | [Largest Product in a Grid](https://projecteuler.net/problem=11)             | ✓      | ✓     |
 |  12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)    | ✓      | ✓     |
 |  13 | [Large Sum](https://projecteuler.net/problem=13)                             | ✓      | ✓     |
-|  14 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)              | •      | •     |
+|  14 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)              | ✓      | ✓     |
 |  15 | [Lattice Paths](https://projecteuler.net/problem=15)                         | •      | •     |
 |  16 | [Power Digit Sum](https://projecteuler.net/problem=16)                       | ✓      | ✓     |
 |  17 | [Number Letter Counts](https://projecteuler.net/problem=17)                  | •      | •     |
