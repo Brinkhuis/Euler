@@ -49,7 +49,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  24 | [Lexicographic Permutations](https://projecteuler.net/problem=24)            | ✓      | ✓     |
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | ✓      | ✓     |
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     | ✓      | ✓     |
-|  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      |        | •     |
+|  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      | ✓      | ✓     |
 |  28 | [Number Spiral Diagonals](https://projecteuler.net/problem=28)               |        | •     |
 |  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | ✓      | ✓     |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | •      | •     |
