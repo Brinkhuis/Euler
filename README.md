@@ -9,7 +9,6 @@ My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
 - Solve the first fifty problem in both [Python](https://www.python.org/) and [Julia](https://julialang.org/)
 - Find a solution in base [Python](https://www.python.org/) and [Julia](https://julialang.org/) before using packages
 - Save benchmarks for comparison
-- Benchmarks for package based solutions are not saved to keep comparison _fair_
 - Try to find _subsecond_ solutions  🚀
 - Bonus: one-liner solutions
 - Coffee before coding!  ☕️
@@ -47,7 +46,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  21 | [Amicable Numbers](https://projecteuler.net/problem=21)                      | ✓      | ✓     |
 |  22 | [Names Scores](https://projecteuler.net/problem=22)                          | ✓      | ✓     |
 |  23 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                     | ✓      | ✓     |
-|  24 | [Lexicographic Permutations](https://projecteuler.net/problem=24)            | •      | •     |
+|  24 | [Lexicographic Permutations](https://projecteuler.net/problem=24)            | ✓      | ✓     |
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | •      | •     |
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | •     |
 |  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      |        | •     |
