@@ -89,3 +89,4 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | •      |       |
 |  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | •     |
 |  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | •     |
+
