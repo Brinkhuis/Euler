@@ -123,3 +123,4 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  98 |                                                                              |        |       |
 |  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | •     |
 | 100 |                                                                              |        |       |
+
