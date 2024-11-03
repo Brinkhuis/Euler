@@ -19,7 +19,7 @@ Benchmark comparisons are available in notebook [`benchmarks.ipynb`](https://git
 Suggestions to improve approach, code and performance are highly appreciated.
 
 
-### Solved problems
+### Solved problems (1 - 50)
 
 | Nr  | Problem                                                                      | Python | Julia |
 |----:|:-----------------------------------------------------------------------------|:------:|:-----:|
@@ -50,7 +50,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | ✓      | ✓     |
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     | ✓      | ✓     |
 |  27 | [Quadratic Primes](https://projecteuler.net/problem=27)                      | ✓      | ✓     |
-|  28 | [Number Spiral Diagonals](https://projecteuler.net/problem=28)               |        | •     |
+|  28 | [Number Spiral Diagonals](https://projecteuler.net/problem=28)               | ✓      | ✓     |
 |  29 | [Distinct Powers](https://projecteuler.net/problem=29)                       | ✓      | ✓     |
 |  30 | [Digit Fifth Powers](https://projecteuler.net/problem=30)                    | •      | •     |
 |  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | •      | •     |
@@ -73,54 +73,19 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | •     |
 |  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |        | •     |
 |  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |        | •     |
+
+
+### Solved problems (50 - 915)
+
+| Nr  | Problem                                                                      | Python | Julia |
+|----:|:-----------------------------------------------------------------------------|:------:|:-----:|
 |  51 | [Prime Digit Replacements](https://projecteuler.net/problem=51)              |        | •     |
 |  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | •     |
 |  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |        | •     |
-|  54 |                                                                              |        |       |
 |  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |        | •     |
 |  56 | [Powerful Digit Sum](https://projecteuler.net/problem=56)                    |        | •     |
-|  57 |                                                                              |        |       |
-|  58 |                                                                              |        |       |
-|  59 |                                                                              |        |       |
-|  60 |                                                                              |        |       |
-|  61 |                                                                              |        |       |
-|  62 |                                                                              |        |       |
 |  63 | [Powerful Digit Counts](https://projecteuler.net/problem=63)                 |        | •     |
-|  64 |                                                                              |        |       |
-|  65 |                                                                              |        |       |
-|  66 |                                                                              |        |       |
 |  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | •      | •     |
-|  68 |                                                                              |        |       |
-|  69 |                                                                              |        |       |
-|  70 |                                                                              |        |       |
-|  71 |                                                                              |        |       |
-|  72 |                                                                              |        |       |
-|  73 |                                                                              |        |       |
-|  74 |                                                                              |        |       |
-|  75 |                                                                              |        |       |
-|  76 |                                                                              |        |       |
-|  77 |                                                                              |        |       |
-|  78 |                                                                              |        |       |
-|  79 |                                                                              |        |       |
-|  80 |                                                                              |        |       |
-|  81 |                                                                              |        |       |
-|  82 |                                                                              |        |       |
-|  83 |                                                                              |        |       |
-|  84 |                                                                              |        |       |
-|  85 |                                                                              |        |       |
-|  86 |                                                                              |        |       |
-|  87 |                                                                              |        |       |
-|  88 |                                                                              |        |       |
-|  89 |                                                                              |        |       |
-|  90 |                                                                              |        |       |
-|  91 |                                                                              |        |       |
 |  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | •      |       |
-|  93 |                                                                              |        |       |
-|  94 |                                                                              |        |       |
-|  95 |                                                                              |        |       |
-|  96 |                                                                              |        |       |
 |  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | •     |
-|  98 |                                                                              |        |       |
 |  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | •     |
-| 100 |                                                                              |        |       |
-
