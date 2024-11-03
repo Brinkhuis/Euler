@@ -46,7 +46,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  20 | [Factorial Digit Sum](https://projecteuler.net/problem=20)                   | ✓      | ✓     |
 |  21 | [Amicable Numbers](https://projecteuler.net/problem=21)                      | ✓      | ✓     |
 |  22 | [Names Scores](https://projecteuler.net/problem=22)                          | ✓      | ✓     |
-|  23 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                     | •      | •     |
+|  23 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                     | ✓      | ✓     |
 |  24 | [Lexicographic Permutations](https://projecteuler.net/problem=24)            | •      | •     |
 |  25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25)           | •      | •     |
 |  26 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                     |        | •     |
