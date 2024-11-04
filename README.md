@@ -56,7 +56,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  31 | [Coin Sums](https://projecteuler.net/problem=31)                             | ✓      | ✓     |
 |  32 | [Pandigital Products](https://projecteuler.net/problem=32)                   | ✓      | ✓     |
 |  33 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)            | ✓      | ✓     |
-|  34 | [Digit Factorials](https://projecteuler.net/problem=34)                      | •      | •     |
+|  34 | [Digit Factorials](https://projecteuler.net/problem=34)                      | ✓      | ✓     |
 |  35 | [Circular Primes](https://projecteuler.net/problem=35)                       | •      | •     |
 |  36 | [Double-base Palindromes](https://projecteuler.net/problem=36)               | •      | •     |
 |  37 | [Truncatable Primes](https://projecteuler.net/problem=37)                    | •      | •     |
