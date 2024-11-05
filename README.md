@@ -59,7 +59,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  34 | [Digit Factorials](https://projecteuler.net/problem=34)                      | ✓      | ✓     |
 |  35 | [Circular Primes](https://projecteuler.net/problem=35)                       | ✓      | ✓     |
 |  36 | [Double-base Palindromes](https://projecteuler.net/problem=36)               | ✓      | ✓     |
-|  37 | [Truncatable Primes](https://projecteuler.net/problem=37)                    | •      | •     |
+|  37 | [Truncatable Primes](https://projecteuler.net/problem=37)                    | ✓      | ✓     |
 |  38 | [Pandigital Multiples](https://projecteuler.net/problem=38)                  |        | •     |
 |  39 | [Integer Right Triangles](https://projecteuler.net/problem=39)               |        | •     |
 |  40 | [Champernowne's Constant](https://projecteuler.net/problem=40)               | •      | •     |
