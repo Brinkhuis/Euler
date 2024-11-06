@@ -61,7 +61,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  36 | [Double-base Palindromes](https://projecteuler.net/problem=36)               | ✓      | ✓     |
 |  37 | [Truncatable Primes](https://projecteuler.net/problem=37)                    | ✓      | ✓     |
 |  38 | [Pandigital Multiples](https://projecteuler.net/problem=38)                  | ✓      | ✓     |
-|  39 | [Integer Right Triangles](https://projecteuler.net/problem=39)               |        | •     |
+|  39 | [Integer Right Triangles](https://projecteuler.net/problem=39)               | ✓      | ✓     |
 |  40 | [Champernowne's Constant](https://projecteuler.net/problem=40)               | •      | •     |
 |  41 | [Pandigital Prime](https://projecteuler.net/problem=41)                      |        | •     |
 |  42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42)                | •      | •     |
