@@ -71,7 +71,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  46 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46)           | ✓      | ✓     |
 |  47 | [Distinct Primes Factors](https://projecteuler.net/problem=47)               | ✓      | ✓     |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           | ✓      | ✓     |
-|  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    |        | •     |
+|  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    | ✓      | ✓     |
 |  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |        | •     |
 
 
