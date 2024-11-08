@@ -2,9 +2,9 @@
 
 https://projecteuler.net  
 
-My guilty pleasure nerdy side-project for the weekends  ❤ (⌐⊙_⊙)
+My guilty pleasure nerdy side-project for the weekends
 
-### Self imposed rules (✓)
+### Self imposed rules
 
 - Solve the first fifty problem in both [Python](https://www.python.org/) and [Julia](https://julialang.org/)
 - Find a solution in base [Python](https://www.python.org/) and [Julia](https://julialang.org/) before using packages
@@ -72,7 +72,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  47 | [Distinct Primes Factors](https://projecteuler.net/problem=47)               | ✓      | ✓     |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           | ✓      | ✓     |
 |  49 | [Prime Permutations](https://projecteuler.net/problem=49)                    | ✓      | ✓     |
-|  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 |        | •     |
+|  50 | [Consecutive Prime Sum](https://projecteuler.net/problem=50)                 | ✓      | ✓     |
 
 
 ### Solved problems (50 - 915)
