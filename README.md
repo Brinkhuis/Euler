@@ -66,8 +66,8 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  41 | [Pandigital Prime](https://projecteuler.net/problem=41)                      | ✓      | ✓     |
 |  42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42)                | ✓      | ✓     |
 |  43 | [Sub-string Divisibility](https://projecteuler.net/problem=43)               | ✓      | ✓     |
-|  44 | [Pentagon Numbers](https://projecteuler.net/problem=44)                      | •      | •     |
-|  45 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | •      | •     |
+|  44 | [Pentagon Numbers](https://projecteuler.net/problem=44)                      | ✓      | ✓     |
+|  45 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | ✓      | ✓     |
 |  46 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46)           |        | •     |
 |  47 | [Distinct Primes Factors](https://projecteuler.net/problem=47)               |        | •     |
 |  48 | [Self Powers](https://projecteuler.net/problem=48)                           |        | •     |
