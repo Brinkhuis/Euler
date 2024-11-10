@@ -2,13 +2,14 @@
 
 https://projecteuler.net  
 
-My guilty pleasure nerdy side-project for the weekends
+My guilty pleasure nerdy side-project for the weekends.  
+Coming from Python, my primairy goal is to learn Julia.
 
 ### Self imposed rules
 
-- Solve the first fifty problem in both [Python](https://www.python.org/) and [Julia](https://julialang.org/)
-- Find a solution in base [Python](https://www.python.org/) and [Julia](https://julialang.org/) before using packages
-- Save benchmarks for comparison
+- Solve the first fifty problems in both [Python](https://www.python.org/) and [Julia](https://julialang.org/)
+- Try finding a solution in base [Python](https://www.python.org/) and [Julia](https://julialang.org/) before using packages
+- Save benchmarks for comparison (`base` vs. `base` and `package` vs. `package`)
 - Try to find _subsecond_ solutions  🚀
 - Bonus: one-liner solutions
 - Coffee before coding!  ☕️
@@ -85,7 +86,7 @@ Suggestions to improve approach, code and performance are highly appreciated.
 |  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |        | ✓     |
 |  56 | [Powerful Digit Sum](https://projecteuler.net/problem=56)                    |        | ✓     |
 |  63 | [Powerful Digit Counts](https://projecteuler.net/problem=63)                 |        | ✓     |
-|  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | •      | •     |
-|  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | •      |       |
-|  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | •     |
-|  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | •     |
+|  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | ✓      | ✓     |
+|  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | ✓      | ✓     |
+|  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | ✓     |
+|  99 | [Largest Exponential](https://projecteuler.net/problem=99)                   |        | ✓     |
