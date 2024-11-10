@@ -79,12 +79,12 @@ Suggestions to improve approach, code and performance are highly appreciated.
 
 | Nr  | Problem                                                                      | Python | Julia |
 |----:|:-----------------------------------------------------------------------------|:------:|:-----:|
-|  51 | [Prime Digit Replacements](https://projecteuler.net/problem=51)              |        | •     |
-|  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | •     |
-|  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |        | •     |
-|  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |        | •     |
-|  56 | [Powerful Digit Sum](https://projecteuler.net/problem=56)                    |        | •     |
-|  63 | [Powerful Digit Counts](https://projecteuler.net/problem=63)                 |        | •     |
+|  51 | [Prime Digit Replacements](https://projecteuler.net/problem=51)              |        | ✓     |
+|  52 | [Permuted Multiples](https://projecteuler.net/problem=52)                    |        | ✓     |
+|  53 | [Combinatoric Selections](https://projecteuler.net/problem=53)               |        | ✓     |
+|  55 | [Lychrel Numbers](https://projecteuler.net/problem=55)                       |        | ✓     |
+|  56 | [Powerful Digit Sum](https://projecteuler.net/problem=56)                    |        | ✓     |
+|  63 | [Powerful Digit Counts](https://projecteuler.net/problem=63)                 |        | ✓     |
 |  67 | [Maximum Path Sum II](https://projecteuler.net/problem=67)                   | •      | •     |
 |  92 | [Square Digit Chains](https://projecteuler.net/problem=92)                   | •      |       |
 |  97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)              |        | •     |
