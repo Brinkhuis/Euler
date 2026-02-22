@@ -5,6 +5,7 @@ https://projecteuler.net
 My guilty pleasure nerdy side-project for the weekends.  
 Coming from Python, my primairy goal is to learn Julia.
 
+
 ### Self imposed rules
 
 - Solve the first fifty problems in both [Python](https://www.python.org/) and [Julia](https://julialang.org/)
@@ -14,10 +15,40 @@ Coming from Python, my primairy goal is to learn Julia.
 - Bonus: one-liner solutions
 - Coffee before coding!  ☕️
 
-Used hardware : MacBook Air 13.3" (2020) M1, 8GB RAM, 256GB SSD  
+
+### Configuration
+
+- Lenovo IDEAPAD Slim 5i
+- 13th Gen Intel i5-13420H
+- 24GB RAM
+- 512GB SSD
+- Linux Mint 22.3
+- Julia 1.12.5
+- Python 3.14.3
+- VSCodium 1.107.18627
+
+
+### Benchmarks
 
 Benchmark comparisons are available in notebook [`benchmarks.ipynb`](https://github.com/Brinkhuis/Euler/blob/main/benchmarks.ipynb)  
 Suggestions to improve approach, code and performance are highly appreciated.
+
+
+### Environments
+
+The Julia environment is included (`Project.toml`, `Manifest.toml` and `src` folder)
+
+A Python environment can be (re)create using
+
+```
+conda create --name euler --file requirements_conda.txt
+```
+
+or
+
+```
+pip install -r requirements_pip.txt
+```
 
 
 ### Solved problems (1 - 50)
